@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Theodore Creighton">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10627</md:content-id>
     <md:title>School Personnel Administration and Instructional Supervision</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>a43a74b6-d072-4afa-864b-4d94da11ed6f</md:uuid>
-<md:slug>school-personnel-administration-and-instructional-supervision</md:slug>
-</metadata>
+    <md:slug>school-personnel-administration-and-instructional-supervision</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>1. Introduction</md:title>
